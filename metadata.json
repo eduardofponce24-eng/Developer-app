@@ -1,0 +1,6 @@
+{
+  "name": "Control de Gastos",
+  "description": "Administrador de gastos personales con rueda interactiva y estadísticas de mayores gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
